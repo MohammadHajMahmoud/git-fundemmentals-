@@ -1,4 +1,3 @@
-Certainly, here are the Git commands and explanations that you can copy and paste into a Git readme file:
 
 ```markdown
 # Git README
